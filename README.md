@@ -64,7 +64,7 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 ---
 
-*"Happiness is the ultimate goal, and I believe in maintaining and growing it through learning, creating, and sharing."*
+> *"Life is a journey of discovery—through science, art, and the endless pursuit of knowledge."*
 
 
 ---
