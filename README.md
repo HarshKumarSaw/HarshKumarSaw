@@ -52,11 +52,11 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 ## 💬 Let's Connect
 
-**LinkedIn:** Your LinkedIn Profile
+**LinkedIn :** [@harshkumarsaw](https://www.linkedin.com/in/harshkumarsaw)
 
-**YouTube:** Summer Camp Challenge Video
+**YouTube :** [@HarshKumarSaw01](https://youtube.com/@harshkumarsaw01?si=ofEd28t5ORCxlUZ4)
 
-**Email:** harsh@example.com
+**Email :** [harshsaw01@gmail.com](harshsaw01@gmail.com)
 
 
 Feel free to explore my repositories, share ideas, or connect with me to collaborate on exciting projects! 😊
