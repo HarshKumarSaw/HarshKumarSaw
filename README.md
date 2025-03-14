@@ -82,3 +82,5 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 > *"Life is a journey of discovery—through science, art, and the endless pursuit of knowledge."*
 
 ---
+
+![Profile Views](https://komarev.com/ghpvc/?username=HarshKumarSaw&color=blue&style=flat)
