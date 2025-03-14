@@ -64,8 +64,13 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 ---
 
-> *"Life is a journey of discovery—through science, art, and the endless pursuit of knowledge."*
+## 📊 GitHub Stats
 
+![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=radical)
+
+---
+
+> *"Life is a journey of discovery—through science, art, and the endless pursuit of knowledge."*
 
 ---
 
