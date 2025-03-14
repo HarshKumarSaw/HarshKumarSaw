@@ -83,4 +83,6 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=HarshKumarSaw&color=blue&style=flat)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HarshKumarSaw&theme=radical)
+
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
