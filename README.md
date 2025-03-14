@@ -81,7 +81,4 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 ---
 
-### 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshKumarSaw-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/HarshKumarSaw)  
-[![Twitter](https://img.shields.io/badge/Twitter-@HarshKumarSaw-blue?style=for-the-badge&logo=twitter)](https://twitter.com/HarshKumarSaw)  
-[![GitHub](https://img.shields.io/badge/GitHub-HarshKumarSaw-181717?style=for-the-badge&logo=github)](https://github.com/HarshKumarSaw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HarshKumarSaw-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshkumarsaw)
