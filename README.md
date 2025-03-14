@@ -80,5 +80,3 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 > *"Life is a journey of discovery—through science, art, and the endless pursuit of knowledge."*
 
 ---
-
-### 🛠️ Tech & Tools I Use  
