@@ -79,6 +79,7 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 ---
 
+
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
