@@ -1,11 +1,6 @@
 # Hi there! 👋 I'm Harsh Kumar Saw
 
 
-![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=radical)
-
-
----
-
 Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven by curiosity and a love for innovation. From crafting creative art to building tech projects and exploring life's deeper questions, I aim to blend creativity, science, and logic into everything I do.
 
 
@@ -66,6 +61,13 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 
 Feel free to explore my repositories, share ideas, or connect with me to collaborate on exciting projects! 😊
+
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=radical)
 
 
 ---
