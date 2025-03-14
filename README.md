@@ -80,3 +80,5 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 > *"Life is a journey of discovery—through science, art, and the endless pursuit of knowledge."*
 
 ---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-@HarshKumarSaw-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshkumarsaw)
