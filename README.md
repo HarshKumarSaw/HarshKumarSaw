@@ -67,7 +67,7 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@HarshKumarSaw-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshkumarsaw)
 
-**YouTube :** [@HarshKumarSaw01](https://youtube.com/@harshkumarsaw01?si=ofEd28t5ORCxlUZ4)
+[![YouTube](https://img.shields.io/badge/YouTube-@harshkumarsaw01-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@harshkumarsaw01?si=ofEd28t5ORCxlUZ4)
 
 **Email :** [harshsaw01@gmail.com](harshsaw01@gmail.com)
 
