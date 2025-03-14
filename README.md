@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Harsh Kumar Saw
+# 👋 I'm Harsh Kumar Saw
 
 
 Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven by curiosity and a love for innovation. From crafting creative art to building tech projects and exploring life's deeper questions, I aim to blend creativity, science, and logic into everything I do.
