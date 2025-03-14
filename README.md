@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 ## 📊 GitHub Stats
 
-![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=dracula)
+![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=tokyonight)
 
 
 ---
