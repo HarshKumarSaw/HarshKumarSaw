@@ -45,6 +45,8 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 ![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshKumarSaw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 ---
 
@@ -84,4 +86,5 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 ---
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HarshKumarSaw&theme=radical)
+### 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarshKumarSaw&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
