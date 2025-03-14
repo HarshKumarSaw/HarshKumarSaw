@@ -5,6 +5,14 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 ---
 
+## 📊 GitHub Stats
+
+![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=radical)
+
+
+
+---
+
 ## 🚀 About Me
 
 **🔬 Aspiring Doctor:** Currently preparing for medical college with a vision to explore the intersection of medicine and technology.
@@ -61,12 +69,6 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 Feel free to explore my repositories, share ideas, or connect with me to collaborate on exciting projects! 😊
 
-
----
-
-## 📊 GitHub Stats
-
-![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=radical)
 
 ---
 
