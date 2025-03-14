@@ -79,10 +79,8 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 ---
 
-> *"Life is a journey of discovery—through science, art, and the endless pursuit of knowledge."*
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HarshKumarSaw&theme=radical)
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)
