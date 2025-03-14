@@ -69,7 +69,7 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 [![YouTube](https://img.shields.io/badge/YouTube-@harshkumarsaw01-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@harshkumarsaw01?si=ofEd28t5ORCxlUZ4)
 
-**Email :** [harshsaw01@gmail.com](harshsaw01@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-harshsaw01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshsaw01@gmail.com)
 
 
 Feel free to explore my repositories, share ideas, or connect with me to collaborate on exciting projects! 😊
