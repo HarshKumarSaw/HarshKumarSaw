@@ -36,6 +36,13 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 ---
 
+## 📊 GitHub Stats
+
+![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=radical)
+
+
+---
+
 ## 📂 Notable Projects
 
 [**Snake Water Gun**](https://github.com/HarshKumarSaw/Snake-Water-Gun)
@@ -61,13 +68,6 @@ Welcome to my GitHub! I'm a passionate student preparing to enter MBBS, driven b
 
 
 Feel free to explore my repositories, share ideas, or connect with me to collaborate on exciting projects! 😊
-
-
----
-
-## 📊 GitHub Stats
-
-![Harsh Kumar Saw's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarshKumarSaw&show_icons=true&theme=radical)
 
 
 ---
