@@ -86,5 +86,3 @@ Feel free to explore my repositories, share ideas, or connect with me to collabo
 
 
 ---
-
-![Test SVG](https://upload.wikimedia.org/wikipedia/commons/5/5d/Loader.svg)
